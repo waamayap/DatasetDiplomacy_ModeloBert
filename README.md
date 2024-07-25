@@ -10,6 +10,11 @@ DatasetDiplomacy/ - Directorio que contiene los datos de entrada en formato JSON
 
 DatasetDiplomacy/ - Jupyter Notebooks utilizados para el análisis exploratorio de datos (EDA) y el entrenamiento y evaluación del modelo.
 
+## Dependencias
+Instalar las dependencias con el siguiente comando:
+
+pip install -r requirements.txt
+
 ## Análisis Realizados
 
 ETL de Mensajes: Extracción y limpieza de datos de mensajes del juego Diplomacy.
